@@ -1,5 +1,7 @@
 # MemoriesAPP
 
+![](client/src/images/memoriesApp.png)
+
 With the memories app, you can save your memories, view, create, edit and delete them.
 You may like the publication you put in the application.
 
